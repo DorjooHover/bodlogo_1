@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bodlogo_1", "bodlogo_1\bodlogo_1.csproj", "{01418929-1851-4225-A9B9-F688770CF24E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01418929-1851-4225-A9B9-F688770CF24E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01418929-1851-4225-A9B9-F688770CF24E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01418929-1851-4225-A9B9-F688770CF24E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01418929-1851-4225-A9B9-F688770CF24E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2804C7A0-DA5C-49AF-9C5D-F0FC08781B74}
+	EndGlobalSection
+EndGlobal
